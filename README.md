@@ -10,6 +10,15 @@ Lightweight CRM starter for small teams.
 - SQLite first, PostgreSQL later if needed
 - Docker-ready deployment for Hostinger VPS
 
+## Local env
+
+Copy `.env.example` to `.env.local` for local development.
+
+## Docker
+
+- `docker-compose.yml` is ready for Hostinger VPS
+- SQLite data is stored in `./data`
+
 ## Next step
 
 1. Install dependencies
