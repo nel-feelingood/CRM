@@ -18,7 +18,7 @@ export default function HomePage() {
           and a clean admin area that is easy to host on your own VPS.
         </p>
         <div className="actions">
-          <Link className="button primary" href="/api/auth/signin/google">
+          <Link className="button primary" href="/login">
             Sign in
           </Link>
           <Link className="button secondary" href="/dashboard">
